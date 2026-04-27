@@ -1,0 +1,12 @@
+*.o
+*.out
+bin/
+obj/
+*.swp
+*.profraw
+
+.DS_Store
+*.swp
+*.profraw
+.env
+
